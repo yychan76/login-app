@@ -1,0 +1,9 @@
+
+.done * {
+    text-decoration: line-through;
+    color: gray;
+}
+
+a[highlight] {
+    font-weight: bold;
+}
